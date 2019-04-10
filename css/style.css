@@ -123,7 +123,12 @@ a:hover, a:focus, a:active, a:visited {
     margin: 0.5em 0;
 }
 .hero-header .logo {
-	max-width: 580px;
+    max-width: 580px;
+    font-family: 'Dosis', 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 5em;
+    color: #FFC000;
+    text-shadow: 4px 4px 40px #1E1E1E;
 }
 .hero-header .btn {
 	margin-top: 3em;
@@ -203,6 +208,9 @@ a span.ti-twitter-alt {
 .nav-tabs {
     margin-top: 20px;
 }
+.schedule-background  {
+    background-color: #F9F9F9;
+}
 .schedule .media {
 	margin-top: 4em;
 }
@@ -214,7 +222,7 @@ a span.ti-twitter-alt {
 }
 .schedule .media-heading {
 	font-weight: 600;
-    border-bottom: 2px solid #efefef;
+    border-bottom: 2px solid #9E9E9E;
     padding-bottom: 10px;
 }
 .schedule .media-body h5 {
@@ -225,7 +233,7 @@ a span.ti-twitter-alt {
 
 .footer {
     background-color: #2a2a2a;
-    margin-top: 30px;
+    /* margin-top: 30px; */
     color: #fff;
 }
 .footer p {
