@@ -109,12 +109,14 @@ a:hover, a:focus, a:active, a:visited {
 
 .hero-header {
 	background: #016cc7;
-	min-height: 600px;
+	/* min-height: 600px; */
 	padding: 5em;
-	color: #fff;
+    color: #fff;
+    
 }
 .hero-header h1 {
-	margin: 1em 0 0 0;
+    margin: 1em 0 0 0;
+    font-size: 3.0vmax;
 }
 .hero-header h4 {
 	font-weight: normal;
@@ -126,7 +128,7 @@ a:hover, a:focus, a:active, a:visited {
     max-width: 580px;
     font-family: 'Dosis', 'Montserrat', sans-serif;
     font-weight: 800;
-    font-size: 5em;
+    font-size: 5.0vmax;
     color: #FFC000;
     text-shadow: 4px 4px 40px #1E1E1E;
 }
