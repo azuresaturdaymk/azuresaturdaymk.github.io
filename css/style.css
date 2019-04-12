@@ -273,7 +273,7 @@ ul.footer-menu li a:hover {
 .location .gmap {
     width: 600px;
     height: 450px;
-    padding-right: 15px;
+    padding-right: 10px;
 }
 
 
@@ -344,7 +344,7 @@ ul.footer-menu li a:hover {
     }
 
     .location .gmap{
-        max-width: 400px;
+        max-width: 320px;
     }
 }
 
