@@ -116,12 +116,12 @@ a:hover, a:focus, a:active, a:visited {
 }
 .hero-header h1 {
     margin: 1em 0 0 0;
-    font-size: 3.0vmax 2.0vmin;
+    font-size: 3.0vmax 1.5vmin;
 }
 .hero-header h4 {
 	font-weight: normal;
     opacity: 0.6;
-    font-size: 2.0vmax 1.0vmax;
+    font-size: 2.0vmax 1.0vmin;
     letter-spacing: 1px;
     margin: 0.5em 0;
 }
@@ -327,7 +327,7 @@ ul.footer-menu li a:hover {
     .hero-header {
         padding: 3em 1em 1em 1em;
         text-align: center;
-        max-height: 550px;
+        /* max-height: 550px; */
     }
     .speaker .feature {
         width: 100%
