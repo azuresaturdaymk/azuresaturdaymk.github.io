@@ -195,7 +195,10 @@ a span.ti-twitter-alt {
 	background-color: #ffffff;
 }
 .sponsors img {
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .tickets {
